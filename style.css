@@ -6,20 +6,21 @@ body{
 }
 
 .principal 
+{
     background:#ccccc ;
      padding: 30px;
-
+}
 h1{
     text-align: center; 
  }  
  p{
-    text-align: center;
+color:aqua
  }
+  em strong {
+    color:aqua rgb
+  }
 #missao { 
     font-size: 20px;
-}
-em strong {
-    color:red
 }
 .itens{
     font-style: italic;
@@ -28,4 +29,18 @@ em strong {
     background-color: #FFFFFF;
     padding: 20px;
 }
-
+em strong {
+    color:aqua
+}
+h2 {
+    text-align: center;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+imagembeneficios{
+    width: 50%;
+}
